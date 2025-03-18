@@ -1,0 +1,12 @@
+{
+    "status": "available",
+    "version": 1.0,
+    "dl_link": "https://....",
+    "locked_modules": [],
+    "banned_hwid": [],
+
+    "webhook_startup": "",
+    "webhook_public_log": "",
+    "webhook_monitor": "",
+    "whop_key": ""
+}
